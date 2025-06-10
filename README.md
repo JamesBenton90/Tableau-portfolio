@@ -22,6 +22,7 @@ Using a structured dataset of employment figures, I developed a set of interacti
 
 ---
 ![image](https://github.com/user-attachments/assets/eb1c3929-a30c-4950-9058-9086bd1e5be2)
+![image](https://github.com/user-attachments/assets/488c2c89-94a1-48fc-a14c-67b34bd01e05)
 
 ---
 
