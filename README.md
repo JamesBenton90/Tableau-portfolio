@@ -21,6 +21,9 @@ Using a structured dataset of employment figures, I developed a set of interacti
    📍 Ranks the cities with the highest employment numbers, giving a sense of scale and economic hubs.
 
 ---
+![image](https://github.com/user-attachments/assets/eb1c3929-a30c-4950-9058-9086bd1e5be2)
+
+---
 
 ### 🎯 Skills Demonstrated
 
